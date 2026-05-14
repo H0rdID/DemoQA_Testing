@@ -19,3 +19,5 @@
 
 ## Milestone
 [Постановка задачи](https://github.com/H0rdID/DemoQA_Testing/milestones)
+
+*PR создан для проверки*
