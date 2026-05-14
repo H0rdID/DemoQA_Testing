@@ -8,7 +8,7 @@
 ## Студент
 | ФИО | Группа | GitHub |
 |-----|--------|--------|
-| Твоё ФИО | Твоя группа | [H0rdID](https://github.com/H0rdID) |
+| Попов Артем Игоревич| ЭУ-430 | [H0rdID](https://github.com/H0rdID) |
 
 ## Преподаватель
 [@Laggon](https://github.com/Laggon)
