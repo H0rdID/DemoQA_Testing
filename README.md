@@ -10,7 +10,7 @@
 | ФИО | Группа | GitHub |
 |-----|--------|--------|
 | Попов Артем Игоревич | ЭУ-430 | [H0rdID](https://github.com/H0rdID) |
-
+| Аспатурян Сурен Геворгович | ЭУ-430 | [sensey7175](https://github.com/sensey7175) |
 ## Преподаватель
 [@Laggon](https://github.com/Laggon)
 
